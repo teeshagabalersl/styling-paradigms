@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-primary: #6B8F71;
+  --color-primary-dark: #55765B;
+  --color-accent: #E2EBDD;
+  --color-dashboard: #F5F7F1;
+  --color-card: #FFFFFF;
+  --color-heading: #34483A;
+  --color-muted: #788579;
+  --color-border: #E1E7DD;
+
+  /* Status colors */
+  --color-success: #2E8B57;
+  --color-success-bg: #E8F3EB;
+  --color-danger: #DC5555;
+  --color-danger-bg: #FCEAEA;
+
+  /* Spacing */
+  --spacing-card: 1.25rem;
+
+  /* Border radius */
+  --radius-card: 12px;
+}
